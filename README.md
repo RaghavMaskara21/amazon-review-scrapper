@@ -1,2 +1,3 @@
 # amazon-review-scrapper
-Scrapping amazon reviews using BeautifulSoup library
+Scrapping amazon reviews using BeautifulSoup library and Pandas
+
